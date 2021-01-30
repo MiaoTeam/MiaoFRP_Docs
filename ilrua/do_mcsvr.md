@@ -72,4 +72,6 @@ use_compression = true
 输入命令 frpc.exe -c frpc.ini 并按下回车启动。
 保持命令提示符窗口打开，不要关闭它，否则映射会中断。
 
+此时映射已经开放了，可以运行Minecraft服务器
+
 > Write by ilrua
