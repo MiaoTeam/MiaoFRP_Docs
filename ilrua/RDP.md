@@ -9,7 +9,7 @@
 #### win10
 点击`开始菜单`->`Windows 系统`->`控制面板`，打开控制面板
 
-![控制面板](./https://i.loli.net/2021/02/01/luz8DGAqx9cwaV2.jpg)
+![控制面板](https://i.loli.net/2021/02/01/luz8DGAqx9cwaV2.jpg)
 
 点击`系统和安全`->`允许远程访问`,打开`系统属性`中的`远程`选卡项
 
