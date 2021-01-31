@@ -2,7 +2,7 @@
 > 本章介绍了如何使用Miaofrp搭建XTCP服务
 
 ### 您必须要了解的知识
-![XTcp](https://img.cncn3.cn/images/3IPX.png)
+![XTcp](https://img.cncn3.cn/images/3JL7.png)
 
 当电脑 A 想访问电脑 B 的某个服务时，电脑 B 上需要启动 服务隧道 准备接受连接
 
