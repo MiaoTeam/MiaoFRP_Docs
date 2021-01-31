@@ -32,52 +32,10 @@
 你也可以点击 `随机端口` 按钮让服务器给您提供随机端口（不会被占用）。
 
 
-### 配置与启用
+### 运行隧道
+* 启动frpc，软件会提示您链接您的服务器的地址和端口
+* 把这个地址端口告诉你的小伙伴，就可以愉快的玩耍了
 
-点击“完成创建”按钮。
-
-在“配置文件”条目复制您的配置内容。如果您成功开通了上述专为Minecraft使用的隧道，至少要复制到如下内容（范例，不一定全部吻合，不要复制范例来作为您的配置文件。）
-```
- [common] 
-server_addr = 100.0.0.0
-server_port = 8877
-tcp_mux = true
-protocol = tcp
-user = TOKEN666
-token = MiaoFrpToken
-dns_server = 114.114.114.114
-
-[PATH_NAME]
-privilege_mode = true
-type = tcp
-local_ip = 127.0.0.1
-local_port = 25565
-remote_port = 65535
-use_encryption = true
-use_compression = true
-```
-
-注意:
-
-1. 每次创建完映射或删除了映射之后配置文件都会发生变化，请在变更后及时更新您的配置文件。
-
-2. 请勿泄露配置文件中 user 字段的内容，否则他人可以登录您的账号，截图注意打码。
-
-3. 不过，如果真的泄露了，可以通过修改密码来解决，User 字段的内容也会随之更新。
-
-在客户端的同级目录创建一个文本文档，命名为 frpc.ini 。
-使用文本编辑器打开它
-将复制的内容粘贴到里面并保存。
-
- **Windows客户端**
- 
-按照上面的方法储存好你的配置文件。
-在客户端的目录里按住 Shift + 鼠标右键。
-点击 “在此处打开命令提示符” 或 “在此处打开 PowerShell”。
-输入命令 frpc.exe -c frpc.ini 并按下回车启动。
-保持命令提示符窗口打开，不要关闭它，否则映射会中断。
-
-此时映射已经开放了，可以运行Minecraft服务器
 
 > Write by ilrua
 > fix by cosix
