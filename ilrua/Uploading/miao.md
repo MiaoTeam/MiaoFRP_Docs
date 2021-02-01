@@ -99,6 +99,7 @@ Byte代表字节，8个二进制位为一个字节，即1Byte=8bit，Byte为数�
 
 我们支持如下映射协议。并且附上了协议介绍。
 
+
 - 展开
 
   **TCP 映射**
@@ -124,6 +125,8 @@ Byte代表字节，8个二进制位为一个字节，即1Byte=8bit，Byte为数�
   **STCP 映射**
 
   安全交换 TCP 连接协议，基于 TCP，访问此服务的用户也需要运行一个客户端，才能建立连接，流量由服务器转发。
+  
+普通用户无法使用上述**任何**一种隧道类型，请充钱
 
 ```text
 摘自:[https://miaofrp.net/?page=panel&module=proxies](https://miaofrp.net/?page=panel&module=proxies)
