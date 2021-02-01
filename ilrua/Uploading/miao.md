@@ -265,13 +265,7 @@ Light Plan,Pro Plan,Team Plan和Enterprise Plan。
 
 **每日签到**
 
-每日签到一般用户(def组)
-
-![不能用](https://img.cncn3.cn/images/34xy.jpg)
-
-你至少要购买**Pro Plan**服务才能获取签到权限。
-
-每次的签到可以获取0~5Gib的流量。历史最高流量为3.9Gib。
+每次的签到可以获取0~5Gib的流量。历史最高流量为3.9Gib。每日签到使用了日本东京的时间（UTC+9）。
 
 **软件下载**
 
