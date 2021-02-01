@@ -4,7 +4,7 @@
 > 远程桌面(RDP)默认是~~关闭的，需手动开启~~ 忘了，对着下面看看自己开没开罢
 
 #### win7
-[百度经验](https://jingyan.baidu.com/article/63f23628177e6d0209ab3d60.html)(~~懒~~ 什么年代了，谁还用win7)
+[百度经验](https://jingyan.baidu.com/article/63f23628177e6d0209ab3d60.html) (~~懒~~ 什么年代了，谁还用win7)
 
 #### win10
 点击`开始菜单`->`Windows 系统`->`控制面板`，打开控制面板
@@ -24,9 +24,9 @@
 ### 3、获取配置文件
 ![配置文件](https://i.loli.net/2021/02/01/PSzQEVqYAeDcvhW.jpg)
 ### 4、启动隧道
-参阅 [frp启动教程](./start_frpc.md)(Coming soooooooon)
+参阅 ~~[frp启动教程](./start_frpc.md)~~ Coming soooooooon
 ### 5、Q&A
-> Q:为什么映射之后，访问那么慢？
+> Q: 为什么映射之后，访问那么慢？
 
-> A:选择就近节点，更换其他节点
+> A: 选择就近节点，更换其他节点
 当然，氪金团队版及以上套餐能享受一对一优化服务

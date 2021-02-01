@@ -5,6 +5,12 @@
 - MiaoTeam 在线支持还在规划中，如果找不到在线支持窗口是非常正常的事情
 - 帮助文档仍在开发中，暂时不支持搜寻
 
+-----
+
+## Github
+- 本文不使用 Github Pages 托管，不过欢迎各位贡献
+- Github地址：[MiaoTeam/MiaoFRP_Docs](https://github.com/MiaoTeam/MiaoFRP_Docs)
+
 ## 闲聊群
 
 - MiaoFRP 避难所 (QQ群)： [1081171263](https://jq.qq.com/?k=3fJ2m8PM)
