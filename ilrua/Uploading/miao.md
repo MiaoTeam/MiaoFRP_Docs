@@ -262,9 +262,9 @@ Light Plan,Pro Plan,Team Plan和Enterprise Plan。
 
 **每日签到**
 
-每日签到一般用户
+每日签到一般用户(def组)
 
-![](https://img.cncn3.cn/images/34xy.jpg)
+![不能用](https://img.cncn3.cn/images/34xy.jpg)
 
 你至少要购买**Pro Plan**服务才能获取签到权限。
 
