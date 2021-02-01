@@ -1,8 +1,9 @@
-# MiaoDocs 公共编辑页面
+### 让MiaoFrp实际化
+-------
+本章有如下内容
+1. 搭建Http服务器 在do_websvr.md
+2. 搭建Minecraft服务器 在do_mcsvr.md
+3. 搭建XTcp服务 在do_xtcpsvr.md
 
-- 本页面内的内容不是已发布内容，可能存在错误
-- 欢迎各位贡献
-
-## 注意事项
-
-- 请各位务必不要<span style="color:red;">***把字堆在一起***</span>，这样看起来会很头晕，影响萌新阅读
+Write_ilrua
+ **不要发布此信息页面**
