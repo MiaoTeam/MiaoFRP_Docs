@@ -16,7 +16,7 @@ NUKKIT核心则是基于java版开发的一款核心，开源，生态优于BDS�
 
 ## BDS on Windows
 ### 0x01 前置工作
-* 1.一个可用的sakura launcher或者frpc
+* 1.一个可用的frpc
 * 2.最新版本的BDS-Windows核心，[传送门](https://www.minecraft.net/en-us/download/server/bedrock/)
 * 3.一台装载着**Win10 1703**或**Win server 2016**或更高版本的操作系统的电脑(官方文档建议)
 * 4.电脑配置不低于2核，1Gb RAM(官方文档建议)
